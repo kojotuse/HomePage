@@ -1,0 +1,12 @@
+Lista zmian:
+
+Do 9.11.2015:
+
+	1. Specyfikacja strony
+	2. Wybór hostingu
+	3. Za³o¿enie bazy danych
+	4. Instalacja wordpressa
+	5. Zabezpieczenie przed wykonaniem ponownego procesu instalacji
+	6. Wgranie skórki
+	7. Instalacja pluginów
+	8. Rozpoczêcie implementacji funkcjonalnoœci
