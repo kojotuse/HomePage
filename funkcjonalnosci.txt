@@ -1,0 +1,20 @@
+Funkcjonalnoœci:
+
+	1. Strona domowa
+		* ogólna prezentacja tematu strony 
+
+	2. Strona prywatna
+		* prezentuje osobê od strony prywatnej, zainteresowaæ, przeczytanych ksi¹¿ek
+
+	3. Strona s³u¿bowa
+		* prezentuje projekty realizowane zawodowo
+		* wyœwietla CV po naciœniêciu przycisku
+		* przekierowuje do profilu na LinkedIn
+
+	4. Dziennik / blog
+		* dodawanie i edycja wpisów
+		* prezentuje dodane chronologicznie wpisy
+		* filtrowanie wpisów ze wzglêdu na kategorie, miesi¹ce
+
+	5. Formularz kontaktowy
+		* umo¿liwia wys³anie wiadomoœci e-mail
