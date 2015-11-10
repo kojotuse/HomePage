@@ -1,0 +1,11 @@
+Zastosowane pluginy:
+
+	* Page builder by siteorigin - u³atwia budowanie strony, zawiera zbiór predefinowanych elementów
+	* siteorigin visit bundle - zestaw widgetów
+	* easy google fonts - zestaw czcionek
+	* black studio tinymce - u³atwia budowanie strony w sposób graficzny
+	* title remover - pozwala na usuniêcie tytu³u strony, który w moim przypadku dubluje siê z tym na pasku menu
+	* contact form 7 - u³atwia tworzenie formularzy kontaktowych
+	* spacer - dodawanie odstêpu na stronie w pikselach
+	* lightbox plus colorbox - zmiana sposobu wyœwietlania zdjêæ, filmów
+	* Beaver Builder - u³atwia budowanie strony, zawiera zbiór predefinowanych elementów
