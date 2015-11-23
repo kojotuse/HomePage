@@ -10,3 +10,10 @@ Do 9.11.2015:
 	6. Wgranie skórki
 	7. Instalacja pluginów
 	8. Rozpoczêcie implementacji funkcjonalnoœci
+
+Do 23.11.2015:
+
+	9. Dodanie wymaganej liczby podstron
+	10. Konfiguracja poszczególnych podstron
+	11. Dodanie monitorowania ruchu poprzez Google Analytics
+
