@@ -17,3 +17,11 @@ Do 23.11.2015:
 	10. Konfiguracja poszczególnych podstron
 	11. Dodanie monitorowania ruchu poprzez Google Analytics
 
+Do 14.12.2015:
+
+	12. Dodanie slidera na stronie g³ównej
+	13. Dodanie domeny pawelgrad.pl
+	14. Poprawa formularza kontaktowego
+
+
+
