@@ -23,5 +23,9 @@ Do 14.12.2015:
 	13. Dodanie domeny pawelgrad.pl
 	14. Poprawa formularza kontaktowego
 
+Do 28.12.2015:
+
+	15.Dodanie opisu powi¹zania konta w serwisie hostingowym z domen¹
+
 
 
